@@ -88,7 +88,7 @@ Below is a table of differences between Spark and Hadoop:
 
 <img src = "images/emr-features-and-benefits.png" width = "70%" />
 
-For more info, check out the [AWS' EMR page](https://aws.amazon.com/emr/?nc=sn&loc=0).
+For more info, check out the [AWS EMR page](https://aws.amazon.com/emr/?nc=sn&loc=0).
 
 [Back to TOC](#Contents)
 
