@@ -143,7 +143,7 @@ If successful, you should see this:
 
 Finally, you'll add a step by clicking the `Steps` tab at the top of your cluster interface in the console, and then clicking the blue `Add step` button. You'll then make a couple changes to the default parameters, as shown below:
 
-<img src = "images/add-step.png" width = "70%" />
+<img src = "images/add-step.png?" width = "70%" />
 
 ## Terminate Cluster
 
