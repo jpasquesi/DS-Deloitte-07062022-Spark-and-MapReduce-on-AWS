@@ -155,6 +155,6 @@ Be sure to terminate your cluster by selecting your cluster in the console inter
 
 ## Inspect Results
 
-Assuming that your cluster ran successfully, you'll be able to access a `csv` file beginning with `part-` from the `restaurant_violations_results` folder in the S3 bucket you created for this tutorial:
+Assuming that your cluster ran successfully, you'll be able to access a `csv` file beginning with `part-` from the `restaurant_violation_results` folder in the S3 bucket you created for this tutorial:
 
 <img src = "images/results.png" width = "30%" />
