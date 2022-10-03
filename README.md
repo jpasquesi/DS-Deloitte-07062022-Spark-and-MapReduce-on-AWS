@@ -116,6 +116,8 @@ Success!
 
 ## Create an S3 Bucket
 
+**Note:** *You'll need to come up with a globally unique name for your S3 bucket, due to naming constraints. In other words, using the same name as seen in the tutorial won't work for you, unfortunately.*
+
 Now we must create an S3 bucket, into which you'll upload the data source and [pySpark](https://spark.apache.org/docs/latest/api/python/getting_started/index.html) script:
 
 <img src = "images/s3-buckets.png" width = "70%" />
@@ -136,6 +138,8 @@ You'll make a few changes from the default parameters:
 <img src = "images/create-cluster-1.png" width = "70%" />
 
 3. Select `ems` (or whatever you called the key pair you created at the beginning of the tutorial) from the `EC2 key pair` dropdown, as shown below:
+
+**Note:** *The `m5.xlarge` instance type isn't available in all regions, so the next largest available size would need to be selected when using services in the `us-east-1` region, for example.*
 
 <img src = "images/create-cluster-2.png" width = "70%" />
 
